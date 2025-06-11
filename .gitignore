@@ -186,8 +186,10 @@ cython_debug/
 *.srt
 *.pdf
 *.dvb
+*.zip
 [AutoCAD]/
 [OpenCV]/
 build/
 dist/
 test/
+src/
